@@ -3,3 +3,4 @@ Mineral water
 Pepsi
 Bier
 Pepsi 0
+Pepsi Lemon
