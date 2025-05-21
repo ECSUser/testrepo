@@ -1,7 +1,2 @@
-bread
-butter
-milk
-OUTIA
-Godfather
-Django
-Something new I added here...
+Cola 0
+Mineral water
