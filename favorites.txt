@@ -1,7 +1,8 @@
-bread
-butter
-milk
-OUTIA
-Godfather
-Django
-Something new I added here...
+Cola 0
+Mineral water
+Pepsi
+Bier
+Pepsi 0
+Pepsi Lemon
+Local change 1
+Remote change 1
